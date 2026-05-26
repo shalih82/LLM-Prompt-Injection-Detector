@@ -3,3 +3,9 @@ __pycache__/
 .vscode/
 *.pyc
 .env
+injection-detector-model/
+*.safetensors
+*.pt
+*.bin
+files.zip
+package-lock.json
